@@ -15,17 +15,62 @@ Introducing **YTAudioSlice**, the ultimate solution for music enthusiasts and co
 Start enjoying your favorite YouTube music and content in audio format today! Download YTAudioSlice and unlock the power of YouTube-to-audio conversion.
 
 
-## Installation Procedure:
+# Getting Started with YTAudioSlice
 
-Follow these simple steps to install and set up YTAudioSlice and Node.js for converting YouTube videos to audio:
+Follow these steps to set up and run YTAudioSlice on your system.
 
-```javascript
-npm install
-```
+## Prerequisites
 
-```javascript
-node app.js
-```
+Before you begin, ensure that you have the following software installed on your computer:
+
+- [Node.js](https://nodejs.org/): YTAudioSlice is built on Node.js, so you'll need Node.js and npm (Node Package Manager) to run it. 
+
+    To check if you have Node.js installed, open your terminal and run:
+    ```shell
+    node -v
+    ```
+
+    To check if you have npm installed, run:
+    ```shell
+    npm -v
+    ```
+
+    If you don't have Node.js and npm installed, you can download and install them from [nodejs.org](https://nodejs.org/).
+
+## Installation
+
+1. **Clone or Download the Repository**: You can either clone this repository to your local machine using Git or download the ZIP file and extract it.
+
+    ```shell
+    git clone https://github.com/xposed73/YTAudioSlice.git
+    ```
+
+2. **Navigate to the Project Directory**: Change your working directory to the project's root folder.
+
+    ```shell
+    cd YTAudioSlice
+    ```
+
+3. **Install Dependencies**: Use npm to install the project dependencies.
+
+    ```shell
+    npm install
+    ```
+
+## Usage
+
+**Start the Application**: Run the following command to start YTAudioSlice.
+
+    ```shell
+    node app.js
+    ```
+
+## Questions or Issues
+
+If you encounter any issues or have questions, please feel free to [open an issue](https://github.com/xposed73/YTAudioSlice/issues) on our GitHub repository.
+
+Happy converting!
+
 
 Start converting YouTube videos to high-quality audio with YTAudioSlice and Node.js today and enhance your music experience!
 
