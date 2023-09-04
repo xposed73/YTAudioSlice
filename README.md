@@ -78,3 +78,8 @@ Before you begin, ensure that you have the following software installed on your 
 If you encounter any issues or have questions, please feel free to [open an issue](https://github.com/xposed73/YTAudioSlice/issues) on our GitHub repository.
 
 **Note**: YTAudioSlice is free and open-source software. Your feedback and contributions are welcome on our [GitHub repository](https://github.com/xposed73/YTAudioSlice) to help us improve the application.
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
