@@ -3,8 +3,8 @@ const ffmpeg = require('fluent-ffmpeg');
 const fs = require('fs');
 
 const videoUrl = 'https://www.youtube.com/watch?v=OEhfzc7JtLQ';
-const startTime = '00:00:49';
-const duration = '00:00:18';
+const startTime = '00:00:49.000';
+const duration = '00:00:18.000';
 
 const video = ytdl(videoUrl, { quality: 'highestaudio' });
 
