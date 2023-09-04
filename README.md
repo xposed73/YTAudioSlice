@@ -67,9 +67,4 @@ Before you begin, ensure that you have the following software installed on your 
 
 If you encounter any issues or have questions, please feel free to [open an issue](https://github.com/xposed73/YTAudioSlice/issues) on our GitHub repository.
 
-Happy converting!
-
-
-Start converting YouTube videos to high-quality audio with YTAudioSlice and Node.js today and enhance your music experience!
-
 **Note**: YTAudioSlice is free and open-source software. Your feedback and contributions are welcome on our [GitHub repository](https://github.com/xposed73/YTAudioSlice) to help us improve the application.
