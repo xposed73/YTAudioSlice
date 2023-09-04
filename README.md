@@ -56,10 +56,8 @@ Before you begin, ensure that you have the following software installed on your 
     ```shell
     npm install
     ```
-
-## Usage
-
-**Start the Application**: Run the following command to start YTAudioSlice.
+    
+4. **Start the Application**: Run the following command to start YTAudioSlice.
 
     ```shell
     node app.js
