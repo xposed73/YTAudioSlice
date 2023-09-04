@@ -61,8 +61,8 @@ Before you begin, ensure that you have the following software installed on your 
 
     ```javascript
     const videoUrl = 'https://www.youtube.com/watch?v=OEhfzc7JtLQ'; // Replace with your youtube video url
-    const startTime = '00:00:49'; // Replace with your desired start time (e.g., 30 seconds)
-    const duration = '00:00:18'; // Replace with the duration of the segment you want (e.g., 1 minute)
+    const startTime = '00:00:30'; // Replace with your desired start time (e.g., 30 seconds)
+    const duration = '00:01:00'; // Replace with the duration of the segment you want (e.g., 1 minute)
     ```
     
 5. **Start the Application**: Run the following command to start YTAudioSlice.
