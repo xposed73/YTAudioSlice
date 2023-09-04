@@ -19,7 +19,9 @@ Start enjoying your favorite YouTube music and content in audio format today! Do
 
 Follow these simple steps to install and set up YTAudioSlice and Node.js for converting YouTube videos to audio:
 
-
+```nodejs
+npm install
+```
 
 Start converting YouTube videos to high-quality audio with YTAudioSlice and Node.js today and enhance your music experience!
 
