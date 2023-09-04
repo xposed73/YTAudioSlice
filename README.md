@@ -56,8 +56,16 @@ Before you begin, ensure that you have the following software installed on your 
     ```shell
     npm install
     ```
+
+4.  **Update Code**: Update Time & Video URL
+
+   ```javascript
+    const videoUrl = 'https://www.youtube.com/watch?v=OEhfzc7JtLQ'; // Replace with your youtube video url
+    const startTime = '00:00:49'; // Replace with your desired start time (e.g., 30 seconds)
+    const duration = '00:00:18'; // Replace with the duration of the segment you want (e.g., 1 minute)
+   ```
     
-4. **Start the Application**: Run the following command to start YTAudioSlice.
+5. **Start the Application**: Run the following command to start YTAudioSlice.
 
     ```shell
     node app.js
