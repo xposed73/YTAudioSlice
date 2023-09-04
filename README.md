@@ -23,6 +23,10 @@ Follow these simple steps to install and set up YTAudioSlice and Node.js for con
 npm install
 ```
 
+```nodejs
+node app.js
+```
+
 Start converting YouTube videos to high-quality audio with YTAudioSlice and Node.js today and enhance your music experience!
 
 **Note**: YTAudioSlice is free and open-source software. Your feedback and contributions are welcome on our [GitHub repository](https://github.com/xposed73/YTAudioSlice) to help us improve the application.
